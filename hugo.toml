@@ -1,0 +1,32 @@
+baseURL = 'https://news.yourdomain.com' # CHANGE THIS LATER
+languageCode = 'en-us'
+title = 'Your Weekly Dispatch'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'light'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+
+  # Architecture Fixes
+  ShowArchives = true
+  disableSpecial1stPost = true
+  ShowToc = false
+  ShowWordCount = false
+
+  [params.profileMode]
+    enabled = false
+
+  [params.homeInfoParams]
+    Title = "Your Weekly Dispatch"
+    Content = "A curated log of interesting content we find online."
+
+[menu]
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "/archives/"
+    weight = 10
