@@ -1,4 +1,4 @@
-baseURL = 'https://thekb.in' # CHANGE THIS LATER
+baseURL = 'https://thekb.in'
 languageCode = 'en-us'
 title = 'Your Weekly Dispatch'
 theme = 'PaperMod'
@@ -22,7 +22,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Your Weekly Dispatch"
-    Content = "A curated log of interesting content we find online."
+    Content = "A curated log of interesting content found the last week."
 
 [menu]
   [[menu.main]]

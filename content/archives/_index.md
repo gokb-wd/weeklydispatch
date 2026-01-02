@@ -6,7 +6,7 @@ layout: "archives"
 
 url: "/archives/"
 
-summary: "All past issues."
+summary: "All past issues"
 
 ---
 
