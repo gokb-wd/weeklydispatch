@@ -1,4 +1,4 @@
-baseURL = 'https://news.yourdomain.com' # CHANGE THIS LATER
+baseURL = 'https://thekb.in' # CHANGE THIS LATER
 languageCode = 'en-us'
 title = 'Your Weekly Dispatch'
 theme = 'PaperMod'
