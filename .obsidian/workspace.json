@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2026-week-01.md",
+                "file": "content/posts/2026-week-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-week-01"
+              "title": "2026-week-02"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "329c704f78b356a0",
   "lastOpenFiles": [
+    "content/posts/2026-week-01.md",
+    "content/posts/2026-week-02.md",
     "Week 2, 2026.md"
   ]
 }
