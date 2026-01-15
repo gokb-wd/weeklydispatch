@@ -22,7 +22,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Your Weekly Dispatch"
-    Content = "A curated log of interesting content found the last week."
+    Content = "A log of interesting content."
 
 [menu]
   [[menu.main]]
